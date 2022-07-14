@@ -5,6 +5,7 @@
     "vercel-build": "./vercel/build.sh"
   },
   "dependencies": {
+    "@vercel/ncc": "^0.34.0",
     "@vitejs/plugin-vue": "^1.10.1",
     "@vue/compiler-sfc": "^3.2.24",
     "@vue/server-renderer": "^3.2.24",
